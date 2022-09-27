@@ -18,7 +18,7 @@ This code was created from a blank project and can be used as a starting point f
 
 ## Built using .NET 4.7.2.
 
-In order to build this app. with Visual Studio 2022 (using the steps from the link above) you must follow the following directions above ("Original project instructions") to be able to install missing ASP.NET templates for .NET Framework:
+In order to build this app. with Visual Studio 2022 (using the steps from the link above and this source code) you must follow the directions on the web page below which describes how to install now missing ASP.NET templates for .NET Framework in Visual Studio 2022:
 
 https://www.howtosolutions.net/2021/11/visual-studio-missing-asp-net-web-application-template-dotnet-framework/
 
