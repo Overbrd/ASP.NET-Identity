@@ -28,7 +28,7 @@ https://www.howtosolutions.net/2021/11/visual-studio-missing-asp-net-web-applica
 
 Packages are as follows:
 
-   Microsoft.AspNet.Identity.EntityFramework package
+'''Microsoft.AspNet.Identity.EntityFramework package
 
    EntityFramework package
 
@@ -42,7 +42,7 @@ Packages are as follows:
 
 Basic form for user to input their new chosen user name and password.
 
-If the user name is already taken an warning is given "Name * is already taken."
+If the user name is already taken a warning is given "Name * is already taken."
 
 Password must be at least 6 characters.
 
