@@ -29,9 +29,13 @@ https://www.howtosolutions.net/2021/11/visual-studio-missing-asp-net-web-applica
 Packages are as follows:
 
 Microsoft.AspNet.Identity.EntityFramework package
+
 EntityFramework package
+
 Microsoft ASP.NET Identity Core package
+
 Microsoft.AspNet.Identity.Owin package
+
 Microsoft.Owin.Host.SystemWeb package
 
 2. Includes a web form to register users [Register.aspx]
